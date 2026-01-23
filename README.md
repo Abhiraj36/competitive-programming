@@ -12,4 +12,10 @@ Tracking my competitive programming progress on Codeforces.
 
 ## Solved Problems
 - CF 4A – Watermelon
+- 71A – Way Too Long Words
+- 231A – Team
+- 50A – Domino piling
+
+
+
 
