@@ -18,4 +18,4 @@ Tracking my competitive programming progress on Codeforces.
 - 282A - Bit++
 - 112A - Petya and Strings
 - 281A - Word Capitalization
-
+- 59A - Word
