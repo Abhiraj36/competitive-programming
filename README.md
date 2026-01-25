@@ -16,6 +16,6 @@ Tracking my competitive programming progress on Codeforces.
 - 231A – Team
 - 50A – Domino piling
 - 282A - Bit++
-
+- 112A - Petya and Strings
 
 
