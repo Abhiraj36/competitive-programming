@@ -17,5 +17,5 @@ Tracking my competitive programming progress on Codeforces.
 - 50A – Domino piling
 - 282A - Bit++
 - 112A - Petya and Strings
-
+- 281A - Word Capitalization
 
