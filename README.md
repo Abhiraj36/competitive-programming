@@ -19,3 +19,4 @@ Tracking my competitive programming progress on Codeforces.
 - 112A - Petya and Strings
 - 281A - Word Capitalization
 - 59A - Word
+- 263A - Beautiful Matrix
