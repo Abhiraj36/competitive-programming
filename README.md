@@ -20,3 +20,10 @@ Tracking my competitive programming progress on Codeforces.
 - 281A - Word Capitalization
 - 59A - Word
 - 263A - Beautiful Matrix
+- 339A – Helpful Maths
+- 677A – Vanya and Fence
+- 116A – Tram
+- 734A – Anton and Danik
+- 791A – Bear and Big Brother
+- 977A – Wrong Subtraction
+
