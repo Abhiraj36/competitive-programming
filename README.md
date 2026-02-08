@@ -27,3 +27,5 @@ Tracking my competitive programming progress on Codeforces.
 - 791A – Bear and Big Brother
 - 977A – Wrong Subtraction
 - 236A - Boy or Girl
+- 41A – Translation
+
