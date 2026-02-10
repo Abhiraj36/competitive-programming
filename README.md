@@ -10,7 +10,8 @@ Tracking my competitive programming progress on Codeforces.
 - **Goal:** Reach Specialist (1400+)
 - **Started:** January 2026
 
-## Solved Problems
+## Solved Problems (800 Problem List)
+
 - CF 4A – Watermelon
 - 71A – Way Too Long Words
 - 231A – Team
@@ -28,4 +29,6 @@ Tracking my competitive programming progress on Codeforces.
 - 977A – Wrong Subtraction
 - 236A - Boy or Girl
 - 41A – Translation
+
+## Solved Problems (900 Problem List)
 
