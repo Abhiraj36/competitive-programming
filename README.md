@@ -29,6 +29,8 @@ Tracking my competitive programming progress on Codeforces.
 - 977A – Wrong Subtraction
 - 236A - Boy or Girl
 - 41A – Translation
+- 110A – Nearly Lucky Number
+
 
 ## Solved Problems (900 Problem List)
 
